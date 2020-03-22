@@ -1,0 +1,12 @@
+{
+    "id": "{22F596E1-E7E2-8263-3B0D-11474F505267}",
+    "author": "Holger Protzek",
+    "name": "ProjectorControl",
+    "url": "https://github.com/hprotzek/symcon-projector-control",
+    "compatibility": {
+        "version": "5.2"
+    },
+    "version": "1.0",
+    "build": 0,
+    "date": 0
+}
